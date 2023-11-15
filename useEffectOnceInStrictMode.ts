@@ -1,6 +1,9 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef } from "react";
 
-export const useEffectOnceInStrictMode = (effect: () => void, deps: Array<unknown> = []) => {
+export const useEffectOnceInStrictMode = (
+  effect: () => void,
+  deps: Array<unknown> = []
+) => {
   const destroyFn = useRef();
   const depsRef = useRef(null);
   const rendered = useRef(false);
@@ -9,7 +12,11 @@ export const useEffectOnceInStrictMode = (effect: () => void, deps: Array<unknow
     rendered.current = true;
   }
 
-  if (depsRef.current && (depsRef.current.length !== deps.length || !deps.every((dep, i) => depsRef.current[i] === dep))) {
+  if (
+    depsRef.current &&
+    (depsRef.current.length !== deps.length ||
+      !deps.every((dep, i) => depsRef.current[i] === dep))
+  ) {
     depsRef.current = null;
   }
 
