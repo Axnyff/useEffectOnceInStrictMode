@@ -4,8 +4,110 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k6-bwUN0slMIS6d7YAmL-1" value="Chanti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-1" target="k6-bwUN0slMIS6d7YAmL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-1" target="k6-bwUN0slMIS6d7YAmL-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="150" />
+              <mxPoint x="610" y="150" />
+              <mxPoint x="610" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-1" target="k6-bwUN0slMIS6d7YAmL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="100" />
+              <mxPoint x="318" y="100" />
+              <mxPoint x="318" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;chantier.Chantier&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;prodevisfacture&lt;/font&gt;&lt;/div&gt;&lt;div&gt;client&lt;/div&gt;&lt;div&gt;consultation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-4" target="k6-bwUN0slMIS6d7YAmL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-4" target="k6-bwUN0slMIS6d7YAmL-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="550" />
+              <mxPoint x="650" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;procrm.Deal&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;conversation&lt;/div&gt;&lt;div&gt;procompany&lt;/div&gt;&lt;div&gt;pipedrive&lt;/div&gt;&lt;div&gt;meeting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-5" value="&lt;div&gt;Pipedrive&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-7" value="&lt;div&gt;Person&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-10" value="&lt;div&gt;Lemonway account&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;conversation.Conversation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-15" target="k6-bwUN0slMIS6d7YAmL-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="345" />
+              <mxPoint x="990" y="190" />
+              <mxPoint x="970" y="190" />
+              <mxPoint x="970" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-15" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;procompany.ProCompany&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;employees&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-4" target="k6-bwUN0slMIS6d7YAmL-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="350" />
+              <mxPoint x="648" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-15" target="k6-bwUN0slMIS6d7YAmL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-18" target="k6-bwUN0slMIS6d7YAmL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-18" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;procompany.ProUser&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;employees&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="420" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-4" target="k6-bwUN0slMIS6d7YAmL-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+              <mxPoint x="651" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;procrm.ProClient&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;conversation&lt;/div&gt;&lt;div&gt;procompany&lt;/div&gt;&lt;div&gt;pipedrive&lt;/div&gt;&lt;div&gt;meeting&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.658;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-4" target="k6-bwUN0slMIS6d7YAmL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.683;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-15" target="k6-bwUN0slMIS6d7YAmL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-27" value="&lt;div&gt;Lemonway wallet&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k6-bwUN0slMIS6d7YAmL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k6-bwUN0slMIS6d7YAmL-1" target="k6-bwUN0slMIS6d7YAmL-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
